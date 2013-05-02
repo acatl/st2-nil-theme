@@ -308,8 +308,8 @@
 
 	{
 		"class": "grid_layout_control",
-		"border_size": 1,
-		"border_color": [150, 150, 150]
+		"border_size": 4,
+		"border_color": [146, 152, 0]
 	},
 
 
@@ -401,7 +401,7 @@
 	//	- Sidebar container (border)
 	{
 		"class": "sidebar_container",
-		"layer0.tint": [150, 150, 150],
+		"layer0.tint": [181, 189, 0],
 		"layer0.opacity": 1.0,
 		"layer0.draw_center": false,
 		"layer0.inner_margin": [0, 0, 1, 0],
@@ -415,7 +415,7 @@
 		"indent": 15,
 		"indent_offset": 13,
 		"indent_top_level": false,
-		"layer0.tint": [0, 37, 43],	// darker gray
+		"layer0.tint": [30, 37, 43],	// darker gray
 		"layer0.opacity": 1.0,
 		"dark_content": true
 	},
