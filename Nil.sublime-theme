@@ -415,7 +415,7 @@
 		"indent": 15,
 		"indent_offset": 13,
 		"indent_top_level": false,
-		"layer0.tint": [32,32,32],	// darker gray
+		"layer0.tint": [0, 37, 43],	// darker gray
 		"layer0.opacity": 1.0,
 		"dark_content": true
 	},
@@ -451,7 +451,7 @@
 	//	- Sidebar heading
 	{
 		"class": "sidebar_heading",
-		"color": [155, 110, 248],
+		"color": [255, 190, 0],
 		"font.bold": true,
 		"shadow_color": [0, 0, 0],
 		"shadow_offset": [0, 0.5]
@@ -482,7 +482,7 @@
 	{
 		"class": "sidebar_label",
 		"parents": [{"class": "tree_row", "attributes": ["expandable"]}],
-		"color": [155, 110, 248]
+		"color": [255, 190, 0]
 	},
 	{
 		"class": "sidebar_label",
